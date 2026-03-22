@@ -1,0 +1,12 @@
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\bin\Debug\net48\DigitalLibrary.exe.config
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\bin\Debug\net48\DigitalLibrary.exe
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\bin\Debug\net48\DigitalLibrary.pdb
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.csproj.AssemblyReference.cache
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.AssemblyInfoInputs.cache
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.AssemblyInfo.cs
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalL.53C08969.Up2Date
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.exe
+C:\Users\panch\Downloads\pankti\pankti\DigitalLibrary\obj\Debug\net48\DigitalLibrary.pdb
